@@ -1,0 +1,9 @@
+com.naveen.uitableview
+array error_row
+color cardBackground
+id recycler_view
+id row_title
+id ui_table_view
+layout row_view_design
+layout ui_table_view
+string error
